@@ -1,0 +1,11 @@
+C:\Users\Furka\source\repos\Db_Proje\Db_Proje\bin\Debug\Db_Proje.exe.config
+C:\Users\Furka\source\repos\Db_Proje\Db_Proje\bin\Debug\Db_Proje.exe
+C:\Users\Furka\source\repos\Db_Proje\Db_Proje\bin\Debug\Db_Proje.pdb
+C:\Users\Furka\source\repos\Db_Proje\Db_Proje\obj\Debug\Db_Proje.csproj.AssemblyReference.cache
+C:\Users\Furka\source\repos\Db_Proje\Db_Proje\obj\Debug\Db_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furka\source\repos\Db_Proje\Db_Proje\obj\Debug\Db_Proje.Properties.Resources.resources
+C:\Users\Furka\source\repos\Db_Proje\Db_Proje\obj\Debug\Db_Proje.csproj.GenerateResource.cache
+C:\Users\Furka\source\repos\Db_Proje\Db_Proje\obj\Debug\Db_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Furka\source\repos\Db_Proje\Db_Proje\obj\Debug\Db_Proje.exe
+C:\Users\Furka\source\repos\Db_Proje\Db_Proje\obj\Debug\Db_Proje.pdb
+C:\Users\Furka\source\repos\Db_Proje\Db_Proje\obj\Debug\Db_Proje.FrmDatabase.resources
