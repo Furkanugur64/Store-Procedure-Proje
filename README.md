@@ -1,4 +1,4 @@
-#  STORE PROSEDÜR PROJE :computer:
+#  STORE PROSEDÜR PROJE 
 
 Bu proje girilen sunucu adına göre sorgula butonuna bastığımızda ilgili sunucudaki veritabanlarını combobox'ta listeler. Eğer Sql Server authentication kullanılacaksa windows authentication kutucuğunun işareti kaldırılmalıdır ve  kullanıcı adı, şifre alanları girilmelidir.
 Combobox üzerinden seçtiğimiz veritabanındaki tablolar otomatik olarak listbox'ta listelenir. Sonrasında bir tablo seçtiğimizde insert , update ve delete seçeneklerinden hangisini yaptırmak istiyorsak onu seçtiğimizde yanda bulundan richtextbox nesnesine 
